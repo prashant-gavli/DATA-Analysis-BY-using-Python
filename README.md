@@ -101,4 +101,5 @@ Nutritional information for fast food items. Useful for identifying high-calorie
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   
+     git clone https://github.com/prashantgavli/netflix-analysis.git
+
